@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCPSample", "OCPSample\OCPSample.csproj", "{2444D429-CC4B-481F-99A9-4038B41E4B36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeforeOCP", "BeforeOCP\BeforeOCP.csproj", "{7F182FA5-28F4-4662-A092-E69B84928B72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2444D429-CC4B-481F-99A9-4038B41E4B36}.Debug|x86.ActiveCfg = Debug|x86
+		{2444D429-CC4B-481F-99A9-4038B41E4B36}.Debug|x86.Build.0 = Debug|x86
+		{2444D429-CC4B-481F-99A9-4038B41E4B36}.Release|x86.ActiveCfg = Release|x86
+		{2444D429-CC4B-481F-99A9-4038B41E4B36}.Release|x86.Build.0 = Release|x86
+		{7F182FA5-28F4-4662-A092-E69B84928B72}.Debug|x86.ActiveCfg = Debug|x86
+		{7F182FA5-28F4-4662-A092-E69B84928B72}.Debug|x86.Build.0 = Debug|x86
+		{7F182FA5-28F4-4662-A092-E69B84928B72}.Release|x86.ActiveCfg = Release|x86
+		{7F182FA5-28F4-4662-A092-E69B84928B72}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

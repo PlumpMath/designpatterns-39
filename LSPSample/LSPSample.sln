@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeforeLSP", "BeforeLSP\BeforeLSP.csproj", "{64A48FAE-BF0B-4FAE-A6D5-4D352C22F73E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSPSample", "LSPSample\LSPSample.csproj", "{A751D984-7BE5-4CB1-AB57-49AB66F538D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64A48FAE-BF0B-4FAE-A6D5-4D352C22F73E}.Debug|x86.ActiveCfg = Debug|x86
+		{64A48FAE-BF0B-4FAE-A6D5-4D352C22F73E}.Debug|x86.Build.0 = Debug|x86
+		{64A48FAE-BF0B-4FAE-A6D5-4D352C22F73E}.Release|x86.ActiveCfg = Release|x86
+		{64A48FAE-BF0B-4FAE-A6D5-4D352C22F73E}.Release|x86.Build.0 = Release|x86
+		{A751D984-7BE5-4CB1-AB57-49AB66F538D2}.Debug|x86.ActiveCfg = Debug|x86
+		{A751D984-7BE5-4CB1-AB57-49AB66F538D2}.Debug|x86.Build.0 = Debug|x86
+		{A751D984-7BE5-4CB1-AB57-49AB66F538D2}.Release|x86.ActiveCfg = Release|x86
+		{A751D984-7BE5-4CB1-AB57-49AB66F538D2}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

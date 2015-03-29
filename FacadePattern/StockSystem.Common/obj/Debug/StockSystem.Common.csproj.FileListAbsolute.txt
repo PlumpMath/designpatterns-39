@@ -1,0 +1,5 @@
+C:\Dokuman Sistemi\10 - Öncelikli\20 - Üniversite Eğitimi\100 - Design Patterns\Projeler\Design Patterns\FacadePattern\StockSystem.Common\bin\Debug\StockSystem.Common.dll
+C:\Dokuman Sistemi\10 - Öncelikli\20 - Üniversite Eğitimi\100 - Design Patterns\Projeler\Design Patterns\FacadePattern\StockSystem.Common\bin\Debug\StockSystem.Common.pdb
+C:\Dokuman Sistemi\10 - Öncelikli\20 - Üniversite Eğitimi\100 - Design Patterns\Projeler\Design Patterns\FacadePattern\StockSystem.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Dokuman Sistemi\10 - Öncelikli\20 - Üniversite Eğitimi\100 - Design Patterns\Projeler\Design Patterns\FacadePattern\StockSystem.Common\obj\Debug\StockSystem.Common.dll
+C:\Dokuman Sistemi\10 - Öncelikli\20 - Üniversite Eğitimi\100 - Design Patterns\Projeler\Design Patterns\FacadePattern\StockSystem.Common\obj\Debug\StockSystem.Common.pdb

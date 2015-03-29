@@ -1,0 +1,9 @@
+c:\users\edeniz\documents\visual studio 2010\Projects\OCPSample\OCPSample\bin\Debug\OCPSample.exe
+c:\users\edeniz\documents\visual studio 2010\Projects\OCPSample\OCPSample\bin\Debug\OCPSample.pdb
+c:\users\edeniz\documents\visual studio 2010\Projects\OCPSample\OCPSample\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\edeniz\documents\visual studio 2010\Projects\OCPSample\OCPSample\obj\x86\Debug\OCPSample.Properties.Resources.resources
+c:\users\edeniz\documents\visual studio 2010\Projects\OCPSample\OCPSample\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\edeniz\documents\visual studio 2010\Projects\OCPSample\OCPSample\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\edeniz\documents\visual studio 2010\Projects\OCPSample\OCPSample\obj\x86\Debug\OCPSample.exe
+c:\users\edeniz\documents\visual studio 2010\Projects\OCPSample\OCPSample\obj\x86\Debug\OCPSample.pdb
+C:\Users\Edeniz\Documents\Visual Studio 2010\Projects\OCPSample\OCPSample\obj\x86\Debug\OCPSample.TestForm.resources

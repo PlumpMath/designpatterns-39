@@ -1,0 +1,9 @@
+C:\Dokuman Sistemi\10 - Öncelikli\20 - Üniversite Eğitimi\100 - Design Patterns\Projeler\Design Patterns\StrategyPattern\StrategyPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dokuman Sistemi\10 - Öncelikli\20 - Üniversite Eğitimi\100 - Design Patterns\Projeler\Design Patterns\StrategyPattern\StrategyPattern\obj\x86\Debug\StrategyPattern.TestForm.resources
+C:\Dokuman Sistemi\10 - Öncelikli\20 - Üniversite Eğitimi\100 - Design Patterns\Projeler\Design Patterns\StrategyPattern\StrategyPattern\obj\x86\Debug\StrategyPattern.Properties.Resources.resources
+C:\Dokuman Sistemi\10 - Öncelikli\20 - Üniversite Eğitimi\100 - Design Patterns\Projeler\Design Patterns\StrategyPattern\StrategyPattern\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Dokuman Sistemi\10 - Öncelikli\20 - Üniversite Eğitimi\100 - Design Patterns\Projeler\Design Patterns\StrategyPattern\StrategyPattern\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Dokuman Sistemi\10 - Öncelikli\20 - Üniversite Eğitimi\100 - Design Patterns\Projeler\Design Patterns\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe
+C:\Dokuman Sistemi\10 - Öncelikli\20 - Üniversite Eğitimi\100 - Design Patterns\Projeler\Design Patterns\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.pdb
+C:\Dokuman Sistemi\10 - Öncelikli\20 - Üniversite Eğitimi\100 - Design Patterns\Projeler\Design Patterns\StrategyPattern\StrategyPattern\obj\x86\Debug\StrategyPattern.exe
+C:\Dokuman Sistemi\10 - Öncelikli\20 - Üniversite Eğitimi\100 - Design Patterns\Projeler\Design Patterns\StrategyPattern\StrategyPattern\obj\x86\Debug\StrategyPattern.pdb

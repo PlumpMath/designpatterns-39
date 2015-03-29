@@ -1,0 +1,9 @@
+C:\Dokuman Sistemi\10 - Öncelikli\20 - Üniversite Eğitimi\100 - Design Patterns\Projeler\SRPSample\BeforeSRP\bin\Debug\BeforeSRP.exe
+C:\Dokuman Sistemi\10 - Öncelikli\20 - Üniversite Eğitimi\100 - Design Patterns\Projeler\SRPSample\BeforeSRP\bin\Debug\BeforeSRP.pdb
+C:\Dokuman Sistemi\10 - Öncelikli\20 - Üniversite Eğitimi\100 - Design Patterns\Projeler\SRPSample\BeforeSRP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dokuman Sistemi\10 - Öncelikli\20 - Üniversite Eğitimi\100 - Design Patterns\Projeler\SRPSample\BeforeSRP\obj\x86\Debug\BeforeSRP.Properties.Resources.resources
+C:\Dokuman Sistemi\10 - Öncelikli\20 - Üniversite Eğitimi\100 - Design Patterns\Projeler\SRPSample\BeforeSRP\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Dokuman Sistemi\10 - Öncelikli\20 - Üniversite Eğitimi\100 - Design Patterns\Projeler\SRPSample\BeforeSRP\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Dokuman Sistemi\10 - Öncelikli\20 - Üniversite Eğitimi\100 - Design Patterns\Projeler\SRPSample\BeforeSRP\obj\x86\Debug\BeforeSRP.exe
+C:\Dokuman Sistemi\10 - Öncelikli\20 - Üniversite Eğitimi\100 - Design Patterns\Projeler\SRPSample\BeforeSRP\obj\x86\Debug\BeforeSRP.pdb
+C:\Dokuman Sistemi\10 - Öncelikli\20 - Üniversite Eğitimi\100 - Design Patterns\Projeler\SRPSample\BeforeSRP\obj\x86\Debug\BeforeSRP.TestForm.resources

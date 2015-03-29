@@ -1,0 +1,9 @@
+C:\Dokuman Sistemi\10 - Öncelikli\20 - Üniversite Eğitimi\100 - Design Patterns\Projeler\Design Principles\ISPSample\WindowsFormsApplication1\bin\Debug\ISRSample.exe
+C:\Dokuman Sistemi\10 - Öncelikli\20 - Üniversite Eğitimi\100 - Design Patterns\Projeler\Design Principles\ISPSample\WindowsFormsApplication1\bin\Debug\ISRSample.pdb
+C:\Dokuman Sistemi\10 - Öncelikli\20 - Üniversite Eğitimi\100 - Design Patterns\Projeler\Design Principles\ISPSample\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dokuman Sistemi\10 - Öncelikli\20 - Üniversite Eğitimi\100 - Design Patterns\Projeler\Design Principles\ISPSample\WindowsFormsApplication1\obj\x86\Debug\ISRSample.Properties.Resources.resources
+C:\Dokuman Sistemi\10 - Öncelikli\20 - Üniversite Eğitimi\100 - Design Patterns\Projeler\Design Principles\ISPSample\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Dokuman Sistemi\10 - Öncelikli\20 - Üniversite Eğitimi\100 - Design Patterns\Projeler\Design Principles\ISPSample\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Dokuman Sistemi\10 - Öncelikli\20 - Üniversite Eğitimi\100 - Design Patterns\Projeler\Design Principles\ISPSample\WindowsFormsApplication1\obj\x86\Debug\ISRSample.exe
+C:\Dokuman Sistemi\10 - Öncelikli\20 - Üniversite Eğitimi\100 - Design Patterns\Projeler\Design Principles\ISPSample\WindowsFormsApplication1\obj\x86\Debug\ISRSample.pdb
+C:\Dokuman Sistemi\10 - Öncelikli\20 - Üniversite Eğitimi\100 - Design Patterns\Projeler\Design Principles\ISPSample\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources

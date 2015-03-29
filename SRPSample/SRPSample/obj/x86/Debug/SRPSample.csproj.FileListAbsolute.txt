@@ -1,0 +1,9 @@
+C:\Dokuman Sistemi\10 - Öncelikli\20 - Üniversite Eğitimi\100 - Design Patterns\Projeler\SRPSample\SRPSample\bin\Debug\SRPSample.exe
+C:\Dokuman Sistemi\10 - Öncelikli\20 - Üniversite Eğitimi\100 - Design Patterns\Projeler\SRPSample\SRPSample\bin\Debug\SRPSample.pdb
+C:\Dokuman Sistemi\10 - Öncelikli\20 - Üniversite Eğitimi\100 - Design Patterns\Projeler\SRPSample\SRPSample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dokuman Sistemi\10 - Öncelikli\20 - Üniversite Eğitimi\100 - Design Patterns\Projeler\SRPSample\SRPSample\obj\x86\Debug\SRPSample.Properties.Resources.resources
+C:\Dokuman Sistemi\10 - Öncelikli\20 - Üniversite Eğitimi\100 - Design Patterns\Projeler\SRPSample\SRPSample\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Dokuman Sistemi\10 - Öncelikli\20 - Üniversite Eğitimi\100 - Design Patterns\Projeler\SRPSample\SRPSample\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Dokuman Sistemi\10 - Öncelikli\20 - Üniversite Eğitimi\100 - Design Patterns\Projeler\SRPSample\SRPSample\obj\x86\Debug\SRPSample.exe
+C:\Dokuman Sistemi\10 - Öncelikli\20 - Üniversite Eğitimi\100 - Design Patterns\Projeler\SRPSample\SRPSample\obj\x86\Debug\SRPSample.pdb
+C:\Dokuman Sistemi\10 - Öncelikli\20 - Üniversite Eğitimi\100 - Design Patterns\Projeler\SRPSample\SRPSample\obj\x86\Debug\SRPSample.TestForm.resources

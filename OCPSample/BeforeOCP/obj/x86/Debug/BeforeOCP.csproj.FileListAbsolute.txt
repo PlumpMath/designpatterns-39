@@ -1,0 +1,9 @@
+C:\Users\Edeniz\Documents\Visual Studio 2010\Projects\OCPSample\BeforeOCP\bin\Debug\BeforeOCP.exe
+C:\Users\Edeniz\Documents\Visual Studio 2010\Projects\OCPSample\BeforeOCP\bin\Debug\BeforeOCP.pdb
+C:\Users\Edeniz\Documents\Visual Studio 2010\Projects\OCPSample\BeforeOCP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Edeniz\Documents\Visual Studio 2010\Projects\OCPSample\BeforeOCP\obj\x86\Debug\BeforeOCP.Properties.Resources.resources
+C:\Users\Edeniz\Documents\Visual Studio 2010\Projects\OCPSample\BeforeOCP\obj\x86\Debug\BeforeOCP.TestForm.resources
+C:\Users\Edeniz\Documents\Visual Studio 2010\Projects\OCPSample\BeforeOCP\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Edeniz\Documents\Visual Studio 2010\Projects\OCPSample\BeforeOCP\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Edeniz\Documents\Visual Studio 2010\Projects\OCPSample\BeforeOCP\obj\x86\Debug\BeforeOCP.exe
+C:\Users\Edeniz\Documents\Visual Studio 2010\Projects\OCPSample\BeforeOCP\obj\x86\Debug\BeforeOCP.pdb
